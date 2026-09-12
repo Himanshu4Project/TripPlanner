@@ -4,6 +4,6 @@ from tools.flight_tool import search_flights
 
 # res = tavily_search("Best hotels in Darbhanga Bihar")
 
-res = search_flights("Darbhanga Bihar to Bangaluru")
+res = search_flights("from Delhi to New York")
 
 print(res)
